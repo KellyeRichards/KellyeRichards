@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @KellyeRichards
-- 👀 I’m interested in ... a LOT of different things!
-- 🌱 I’m currently learning ... all the things!
-- 💞️ I’m looking to collaborate on ... anything! I'm open to working on anything :)
-- 📫 How to reach me ... kellye.whitfill@gmail.com
-- 🏫 This summer, I'll be teaching multiple C3, week long classes! This is a week long bootcamp that teaches middle and high schoolers basic HTML, CSS, and Javascript!
+👋 Hi, I’m Kellye Richards
+- 👀 I’m passionate about web development, software engineering, and teaching!
+- 🌱 Currently diving deep into advanced computer science topics and new programming languages.
+💞️ Open to collaborating on web development projects, software engineering challenges, AI, machine learning, and educational content creation.
+- 📫 Reach me at kellye.whitfill@gmail.com
+
+
 <!---
 KellyeRichards/KellyeRichards is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
