@@ -1,7 +1,7 @@
 👋 Hi, I’m Kellye Richards
 - 👀 I’m passionate about web development, software engineering, and teaching!
 - 🌱 Currently diving deep into advanced computer science topics and new programming languages.
-💞️ Open to collaborating on web development projects, software engineering challenges, AI, machine learning, and educational content creation.
+- 💞️ Open to collaborating on web development projects, software engineering challenges, AI, machine learning, and educational content creation.
 - 📫 Reach me at kellye.whitfill@gmail.com
 
 
